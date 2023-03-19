@@ -1,0 +1,40 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-flexbox;
+    transition: 0.8s all;
+    padding: 8px 8px;
+}
+
+nav ul li:hover{
+    background-color:beige;
+    
+}
+
+button {
+
+margin: 0 auto;
+padding: 8px 8px;
+
+}
+
+
+
+.img-banner1{
+
+}
+nav ul{
+    display: inline-flex;
+    
+}
+
+
+
+
+img{
+    max-width: 100%;
+}
