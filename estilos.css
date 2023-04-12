@@ -1,0 +1,24 @@
+table{
+    border-collapse: collapse;
+}
+
+caption{
+    background-color: rgb(42, 22, 218);
+    color: black;
+}
+
+thead{
+    background-color: black;
+    color: rgb(14, 17, 224);
+}
+
+h1{
+    background-color: rgb(24, 21, 192);
+    color: black;
+}
+
+tbody th{
+    background-color: rgb(18, 21, 204);
+    color: black;
+}
+
